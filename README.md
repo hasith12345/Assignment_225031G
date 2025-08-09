@@ -1,5 +1,4 @@
 # Assignment_225031G
-# Assignment_225031G
 
 ## Project Overview
 This project is a multi-page web application featuring a sports-themed online store, image gallery, comment form, and student details section. It is organized into several folders, each serving a specific purpose.
